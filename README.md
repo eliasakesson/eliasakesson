@@ -4,18 +4,23 @@ I am Elias Åkesson. I am currently studying engineering at [Finnvedens Gymnasiu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliasakesson" alt="Elias Akesson" /> </p>
 
+<div>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<br />
+<br />
+
 - 🌱 I’m currently learning Unity and Firebase
-- 👯 I'm trying to finish and publish a mobile game
-- 🤔 I’m looking to collaborate on Web Development Related Projects
-- 🥅 2023 Goals: To make programming a full time job
+- 🥅 2023 Goals: To finish and publish my mobile game
+- 🤔 I’m looking for an internship or job as a Full-Stack Web Developer or a Game Developer
 - ⚡ Fun fact: I love skiing and mountain biking
 
 <br />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=eliasakesson&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 <br />
-
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasakesson&theme=transparent&layout=compact)](https://github.com/HridoyHazard)
 
 </br>
@@ -63,4 +68,5 @@ I am Elias Åkesson. I am currently studying engineering at [Finnvedens Gymnasiu
 </span>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="https://github.com/HridoyHazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eliasakesson/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Elias Åkesson" height="40" width="40"/></a>
+<a href="https://github.com/eliasakesson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Elias Åkesson" height="40" width="40" /></a>
