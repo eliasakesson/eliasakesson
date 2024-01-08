@@ -10,7 +10,7 @@ I am Elias Åkesson. I am currently studying engineering at [Finnvedens Gymnasiu
 <br />
 
 - 🌱 I’m currently learning NextJS and Stripe
-- 🥅 2023 Goals: To finish and and publish my ecommerce store
+- 🥅 2024 Goals: To finish and and publish my ecommerce store
 - 🤔 I’m looking for an internship or job as a Full-Stack Web Developer or a Game Developer
 - ⚡ Fun fact: I love skiing and mountain biking
 
@@ -32,6 +32,7 @@ I am Elias Åkesson. I am currently studying engineering at [Finnvedens Gymnasiu
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
