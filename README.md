@@ -3,15 +3,14 @@
 I am currently studying engineering at [Finnvedens Gymnasium](https://figy.se/). I am a tech enthusiast & a self learner.
 
 <div>
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
 </div>
 <br />
 <br />
 
 - 🌱 I’m currently learning NextJS and Stripe
 - 🥅 2024 Goals: To finish and and publish my ecommerce store
-- 🤔 I’m looking for an internship or job as a Full-Stack Web Developer or a Game Developer
+- 🤔 I’m looking for an internship or job as a Full-Stack Web Developer
 - ⚡ Fun fact: I love skiing and mountain biking
 
 <br />
