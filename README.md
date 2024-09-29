@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
+
 ## 💫 About Me:
 🌱 I’m currently learning Prisma, PostgreSQL<br><br>👨‍💻 All of my projects are available at https://www.eliasakesson.me/<br><br>📫 How to reach me: akessonelias@gmail.com
 
